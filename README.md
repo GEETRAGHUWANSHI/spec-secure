@@ -1,8 +1,8 @@
-Spec2Test
+spec-secure
 
 AI-Assisted Requirements Quality Gate & Test Generation
 
-Spec2Test is an AI-assisted requirements engineering tool that helps software teams identify quality issues in requirements, improve unclear specifications, generate acceptance criteria and test cases, and maintain traceability from the original requirement to its resulting tests.
+spec-secure is an AI-assisted requirements engineering tool that helps software teams identify quality issues in requirements, improve unclear specifications, generate acceptance criteria and test cases, and maintain traceability from the original requirement to its resulting tests.
 
 Built as an MVP for the IBM Bob 2.0 Hackathon.
 
@@ -22,9 +22,9 @@ Vague acceptance conditions
 
 These problems can move downstream into design, implementation, and testing, where they become more expensive to fix.
 
-Spec2Test provides an AI-assisted quality gate before requirements move further into the software development lifecycle.
+spec-secure provides an AI-assisted quality gate before requirements move further into the software development lifecycle.
 
-💡 What Spec2Test Does
+💡 What spec-secure Does
 
 Requirement Document
         ↓
@@ -142,7 +142,7 @@ Edge/boundary cases where applicable
 
 🔗 Traceability
 
-Spec2Test maintains:
+spec-secure maintains:
 
 Document
    ↓
@@ -187,7 +187,7 @@ Test Case
 
 📁 Project Structure
 
-spec2test/
+spec-secure/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py
@@ -226,7 +226,7 @@ spec2test/
 ├── .env.example
 ├── .gitignore
 ├── README.md
-└── spec2test-plan.md
+└── spec-secure-plan.md
 
 🛠️ Technologies Used
 

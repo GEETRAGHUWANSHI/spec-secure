@@ -1,4 +1,4 @@
-# Spec2Test — Implementation Plan
+# spec-secure — Implementation Plan
 
 ## Top-Level Overview
 
